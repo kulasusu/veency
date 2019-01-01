@@ -1,0 +1,13 @@
+Package: com.yourepo.veency.veency
+Name: veency
+Version: 0.9.3500
+Architecture: iphoneos-arm
+Description: Tweak for veency 0.9.3500
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: kulalasusu <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./veency.deb
+Size: 489474
+MD5sum: 68b31003bc4de7e7cd566eb055f4bf1f
+Depends: mobilesubstrate
